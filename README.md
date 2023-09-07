@@ -4,7 +4,7 @@ A movie daatabase app built with react, react-router. Users are able to find mov
 
 ## Live demo
 
-[Netlify link](https://courageous-chaja-7597ca.netlify.app/) (Netlify)
+[Netlify](https://courageous-chaja-7597ca.netlify.app/)
 
 ## Screenshots
 
